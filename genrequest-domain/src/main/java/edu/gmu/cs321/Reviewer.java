@@ -1,6 +1,6 @@
 package edu.gmu.cs321;
 
-public class review{
+public class Reviewer{
     public static boolean valid(){
         return true;
     }
